@@ -6,7 +6,7 @@ https://devintelligence.hashnode.dev/why-version-control-exists-the-pendrive-pro
 
 ---
 
-1.WHAT IS THE MAIN PROBLEM ?
+## 1.WHAT IS THE MAIN PROBLEM ?
 
 Let's understand with a real life imaginable scenario.
 
@@ -72,7 +72,7 @@ One day, your professor reports a bug. You remember that the application was wor
 
 You start opening folders one by one, trying to find the correct version. What should have taken a few seconds now takes hours.
 
-Sharing Code Through Pendrives
+## Sharing Code Through Pendrives
 
 Suppose you are working on a project with your friend Rahul.
 
@@ -98,7 +98,7 @@ Now someone has to manually compare files and merge the changes. If either of yo
 
 This was one of the biggest problems with the pendrive approach: there was no safe way to combine changes made by multiple people.
 
-Sharing Code Through Email
+## Sharing Code Through Email
 
 Email was another common solution.
 
@@ -151,7 +151,7 @@ This is the beginning of the Pendrive Problem.
 
 The “Pendrive Problem” is not an official technical term. It’s a simple way to describe the problems developers faced before version control systems like Git existed, when they used pendrives, emails, and copied folders to manage code.
 
-SUMMARIZE THE PROBLEM
+## SUMMARIZE THE PROBLEM
 
 
 
@@ -215,11 +215,11 @@ Developers needed a system that could automatically track every change, maintain
 
 This need gave birth to Version Control Systems (VCS).
 
-2) Let's look at the solution now
+## 2) Let's look at the solution now
 
 Verison control system
 
-Version Control System (VCS)
+#### Version Control System (VCS)
 
 The problems caused by pendrives, emails, and folders like Final, Final_v2, and Latest_Final eventually became too difficult to manage.
 
@@ -273,7 +273,7 @@ With a VCS, you can simply go back to Monday’s version and restore it within s
 
 This is exactly how a Version Control System works for software projects.
 
-Another Example: Team Collaboration
+#### Another Example: Team Collaboration
 
 Suppose three developers are working on the same project:
 
@@ -295,7 +295,7 @@ Without a VCS, everyone would exchange ZIP files, emails, or pendrives, making i
 
 With a VCS, everyone can work on their own changes independently, and later combine them safely into a single project.
 
-let's summarize some benfits
+#### let's summarize some benfits
 
 
 
@@ -361,7 +361,7 @@ Every change is associated with the developer who made it. This makes project ma
 
 
 
-3) How GIT and GITHUB comes in picture?
+## 3) How GIT and GITHUB comes in picture?
 
 we saw, A Version Control System solves the problem of tracking changes and managing project history.
 
@@ -390,17 +390,17 @@ Git tracks and manages changes in your code.
 
 GitHub helps you store, share, and collaborate on Git repositories online.
 
-In one line , see the difference:
+#### In one line , see the difference:
 
 GIT is a local software and GITHUB is a cloud platform
 
 Together, Git and GitHub have become essential tools in modern software development.
 
-SOME DIAGRAMS FOR BETTER UNDERSTANDING
+#### SOME DIAGRAMS FOR BETTER UNDERSTANDING
 
 
 
-4)CONCLUSION
+## 4)CONCLUSION
 
 Today, it’s easy to take Git and GitHub for granted. We run a few commands, push our code, and collaborate with developers across the world without thinking much about it.
 
