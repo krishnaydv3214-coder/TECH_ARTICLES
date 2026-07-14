@@ -4,7 +4,12 @@ A collection of technical articles and software engineering concepts from my lea
 
 ## Articles
 
-
+## Git
 - [Why Version Control Exists: The Pendrive Problem](https://devintelligence.hashnode.dev/why-version-control-exists-the-pendrive-problem)
 - [Git for Beginners: Basics and Essential Commands](https://devintelligence.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+
+## JS
 - [Template Literals in JavaScript: Why They Were Introduced and How They Changed String Handling](https://devintelligence.hashnode.dev/template-literals-in-javascript-why-they-were-introduced-and-how-they-changed-string-handling)
+
+## GenAI
+- [How LLMs Understand our Questions](https://devintelligence.hashnode.dev/how-chatgpt-understands-your-questions)
